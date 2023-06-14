@@ -1,4 +1,3 @@
-# LET'S SHARE EXHIBITS
 Welcome to our hub for open science communication!
 
 ## Licenses Help Desk
