@@ -1,8 +1,13 @@
-# openexhibits
-Welcome to our open science communication hub!
+# LET'S SHARE EXHIBITS
+Welcome to our hub for open science communication!
 
-## License Choice helpers:
+## Licenses Help Desk
 * https://choosealicense.com/
 
-## Open exhibits at ECSITE members
+## Open exhibits 
 * Future Mobility Simulator
+* I AM A.I. exhibition
+* The 10 Minute Museum: Climate Crisis Mathematics
+
+## Resources
+* imaginary.org
