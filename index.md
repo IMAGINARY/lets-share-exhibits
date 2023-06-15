@@ -9,4 +9,4 @@ Welcome to our hub for open science communication!
 * The 10 Minute Museum: Climate Crisis Mathematics
 
 ## Resources
-* imaginary.org
+* imaginary.org (Mathematics / Images, Films, Software, Hands-on)
