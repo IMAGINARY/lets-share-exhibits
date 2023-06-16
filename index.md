@@ -6,6 +6,7 @@ Welcome to our hub for open science communication!
   
 ## All about open licenses
 * [Choose an open source license](https://choosealicense.com/)
+* [TLDR Legal](https://www.tldrlegal.com/)
 
 ## Concrete open exhibits 
 * Future Mobility Simulator
