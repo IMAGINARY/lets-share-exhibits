@@ -1,7 +1,7 @@
 Welcome to our hub for open science communication!
 
 ## [Sharing is Caring](https://www.ecsite.eu/conference/programme/sharing-caring-open-licenses-practice) - ECSITE 2023
-* Slides by Tobias Kösters, Andreas Matt, Stephanos Cherouvis, Clara Boissenin
+* Slides by [Tobias Kösters](https://cloud.imaginary.org/index.php/s/daYzefePkeQrwCq), [Andreas Matt](https://cloud.imaginary.org/index.php/s/qQDk3ite4iB25tn), [Clara Boissenin and Stephanos Cherouvis] (https://cloud.imaginary.org/index.php/s/iLtgQJkKCFnyQXK)
 * Video by Steph Muscat (Exploratorium)
   
 ## Info on open licenses
@@ -14,5 +14,5 @@ Welcome to our hub for open science communication!
 * [The 10 Minute Museum: Climate Crisis Mathematics](https://www.imaginary.org/exhibition/10-minute-museum-climate-crisis-mathematics), [climatecrisis.imaginary.org](climatecrisis.imaginary.org)
 
 ## General Resources
-* [IMAGINARY - open mathematics](https://imaginary.org) (open images, films, software, hands-on / mathematics)
-* [Exploratorium - tinkering projects](https://www.exploratorium.edu/tinkering/projects)
+* [IMAGINARY](https://imaginary.org) (open images, films, software, hands-on / mathematics)
+* [Exploratorium](https://www.exploratorium.edu/tinkering/projects) (open tinkering projects)
