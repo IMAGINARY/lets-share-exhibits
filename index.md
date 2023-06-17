@@ -9,7 +9,7 @@ Welcome to our hub for open science communication!
 * [TLDR Legal](https://www.tldrlegal.com/) (for software licenses)
 
 ## Concrete open exhibits 
-* [Future Mobility Simulator](https://futurium.de/en/future-mobility-simulator), Github [Simulator](https://github.com/IMAGINARY/future-mobility), [Lego](https://github.com/IMAGINARY/future-mobility-lego)
+* [Future Mobility Simulator](https://futurium.de/en/future-mobility-simulator), Github: [Simulator](https://github.com/IMAGINARY/future-mobility), [Lego](https://github.com/IMAGINARY/future-mobility-lego)
 * [I AM A.I. exhibition](https://www.imaginary.org/exhibition/i-am-ai-explaining-artificial-intelligence), [i-am.ai](https://i-am.ai), [muski.io](https://muski.io)
 * [The 10 Minute Museum: Climate Crisis Mathematics](https://www.imaginary.org/exhibition/10-minute-museum-climate-crisis-mathematics), [climatecrisis.imaginary.org](climatecrisis.imaginary.org)
 
