@@ -1,7 +1,7 @@
 Welcome to our hub for open science communication!
 
 ## [Sharing is Caring](https://www.ecsite.eu/conference/programme/sharing-caring-open-licenses-practice) - ECSITE 2023
-* Slides by [Tobias Kösters](https://cloud.imaginary.org/index.php/s/daYzefePkeQrwCq), [Andreas Matt](https://cloud.imaginary.org/index.php/s/qQDk3ite4iB25tn), [Clara Boissenin and Stephanos Cherouvis] (https://cloud.imaginary.org/index.php/s/iLtgQJkKCFnyQXK)
+* Slides by [Tobias Kösters](https://cloud.imaginary.org/index.php/s/daYzefePkeQrwCq), [Andreas Matt](https://cloud.imaginary.org/index.php/s/qQDk3ite4iB25tn), [Clara Boissenin and Stephanos Cherouvis](https://cloud.imaginary.org/index.php/s/iLtgQJkKCFnyQXK)
 * Video by Steph Muscat (Exploratorium)
   
 ## Info on open licenses
